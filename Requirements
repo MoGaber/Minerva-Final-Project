@@ -1,1 +1,7 @@
-fafa
+To run any of the three notebooks above, you need the following modules:
+
+- moviepy: pip install moviepy
+- tqdm: pip install tqdm
+
+
+
