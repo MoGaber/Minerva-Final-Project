@@ -4,9 +4,12 @@ Granular materials are large aggregates of solid particles (these can be sand, p
 In this project, I’m going to study granular materials using a computational approach that depends on a discrete-models that can coarse-grain the microscopic interactions of the granular materials to reproduce the behaviors mentioned above. I will talk about the most popular models that were used to study granules, I will replicate a few of them to get a deeper understanding of how the models work and I will build an improved version that is able to reproduce experimentally observed behaviors. 
 
 
-There are three main files:
+There are six main files:
 
 - Baxter et al: This is a replication of the Baxter et al 1991 paper in which I rerproduce their discrete cellular automata model adn conduct more analysis.
 - LGA-FHP: This is my implementation of the lattice gas cellular autommata model.
 - FHP-Modified: This is my modification to the LGA model so it can be more suitable for simulating granular materials.
+- Gaber model_Narrow_Pipe_Wave_Density: This file includes my simulation of the narrow pipe and the reproduction of the wave density and wave propagation
+- Gaber_Model_Flow_Rate_Graph: This file includes the flow rate simulation
+- Gaber_Model_Phase_Transition: This file includes the simulation conducted to reproduce the phase transition
 
