@@ -6,10 +6,10 @@ In this project, I’m going to study granular materials using a computational a
 
 There are six main files:
 
-- Baxter et al: This is a replication of the Baxter et al 1991 paper in which I rerproduce their discrete cellular automata model adn conduct more analysis.
+- Baxter_Replication: This is a replication of the Baxter et al 1991 paper in which I rerproduce their discrete cellular automata model adn conduct more analysis. The notebook takes about 4 hours to run on a google cloud.
 - LGA-FHP: This is my implementation of the lattice gas cellular autommata model.
-- FHP-Modified: This is my modification to the LGA model so it can be more suitable for simulating granular materials.
-- Gaber model_Narrow_Pipe_Wave_Density: This file includes my simulation of the narrow pipe and the reproduction of the wave density and wave propagation
-- Gaber_Model_Flow_Rate_Graph: This file includes the flow rate simulation
-- Gaber_Model_Phase_Transition: This file includes the simulation conducted to reproduce the phase transition
+- FHP-Modified: This is my modification to the LGA model so it can be more suitable for simulating granular materials. The notebook takes about 1 hour to run.
+- Gaber_Model_Narrow_Pipe_Wave_Density: This file includes my simulation of the narrow pipe and the reproduction of the wave density and wave propagation. The notebook takes about 1.5 hours to run
+- Gaber_Model_Flow_Rate_Graph: This file includes the flow rate simulation. The notebook takes about 2.5 hours to run
+- Gaber_Model_Phase_Transition: This file includes the simulation conducted to reproduce the phase transition. The notebook takes about 2.5 hours to run.
 
